@@ -29,12 +29,17 @@
 
 .section1{
    max-height: 100vh; 
-   color: #711e15;
+   color: #e22f1b;
 }
 
 .section1 h1{
     color: #37110d;
     font-size: 2rem;
+}
+.section2{
+    color:rgb(41, 41, 42);
+    font-size:3rem ;
+    max-height: 100vh ;
 }
 
 .logo{
